@@ -104,4 +104,13 @@
   .spacer {
     margin-top: 36px;
   }
-  
+
+  .form-group-gender {
+    display: flex;
+    align-items: center;
+    font-size: 1.4rem;
+  }
+
+  .gender-label {
+    padding-left: 10px;
+  }
